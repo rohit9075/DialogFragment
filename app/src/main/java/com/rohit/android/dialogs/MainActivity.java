@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
+    // method to show the dialog.
     private void showDialog() {
 
         // creating the object of the AlertDialogFragment
